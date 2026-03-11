@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+.flashcard{
+  width: 400px;
+  height: 200px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: white;
+}
