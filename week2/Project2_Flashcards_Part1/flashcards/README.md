@@ -10,7 +10,7 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
-
+Part 1: 
 - [x] **The app displays the title of the card set, a short description, and the total number of cards**
   - [x] Title of card set is displayed 
   - [x] A short description of the card set is displayed 
@@ -24,19 +24,30 @@ The following **required** functionality is completed:
   - [x] Clicking on a flipped card again flips it back, showing the front
 - [x] **Clicking on the next button displays a random new card**
 
+Part 2: 
+- [x] **The user can enter their guess into an input box *before* seeing the flipside of the card**
+  - Application features a clearly labeled input box with a submit button where users can type in a guess
+  - Clicking on the submit button with an **incorrect** answer shows visual feedback that it is wrong 
+  -  Clicking on the submit button with a **correct** answer shows visual feedback that it is correct
+- [x] **The user can navigate through an ordered list of cardss**
+  - A forward/next button displayed on the card navigates to the next card in a set sequence when clicked
+  - A previous/back button displayed on the card returns to the previous card in the set sequence when clicked
+  - Both the next and back buttons should have some visual indication that the user is at the beginning or end of the list (for example, graying out and no longer being available to click), not allowing for wrap-around navigation
+
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
 <div>
-    <a href="https://www.loom.com/share/4d851194db3346e7a1ca7a49e80f7cce">
-      <p>flashcards - 10 March 2026 - Watch Video</p>
+    <a href="https://www.loom.com/share/3dce8e1763a44502a90c578d5c5d0110">
+      <p>flashcards - 22 March 2026 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/4d851194db3346e7a1ca7a49e80f7cce">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4d851194db3346e7a1ca7a49e80f7cce-0e21a1458d71733f-full-play.gif#t=0.1">
+    <a href="https://www.loom.com/share/3dce8e1763a44502a90c578d5c5d0110">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3dce8e1763a44502a90c578d5c5d0110-f871fa1ebe20fcce-full-play.gif#t=0.1">
     </a>
   </div>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
@@ -45,9 +56,6 @@ GIF created with Loom
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
