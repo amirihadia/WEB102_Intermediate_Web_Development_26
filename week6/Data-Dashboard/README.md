@@ -1,12 +1,12 @@
-# Web Development Project 5 - *The Book Dashboard*
+# Web Development Project 5 & 6 - *The Book Dashboard*
 
 Submitted by: **Hadia Amiri**
 
-This web app: **The Book Dashboard is a React web app that uses the Open Library API to display a collection of fiction books. Users can search by title and filter results by publication year, with the list updating in real time. The app also includes summary statistics, such as total books and average publication year, to provide quick insights into the data.**
+This web app: **The Book Dashboard is a React web app that uses the Open Library API to display a collection of fiction books. Users can search by title and filter results by publication year, with the list updating in real time. The app also includes summary statistics, and charts such as total books and average publication year, to provide quick insights into the data.**
 
 Time spent: **10** hours spent in total
 
-## Required Features
+## Required Features Part 1
 
 The following **required** functionality is completed:
 
@@ -25,9 +25,36 @@ The following **required** functionality is completed:
   - The filter **correctly** filters items in the list, only displaying items matching the filter attribute in the dashboard
   - The dashboard list dynamically updates as the user adjusts the filter
 
+## Required Features Part 2
+
+The following **required** functionality is completed:
+
+- [x] **Clicking on an item in the list view displays more details about it**
+  - Clicking on an item in the dashboard list navigates to a detail view for that item
+  - Detail view includes extra information about the item not included in the dashboard view
+  - The same sidebar is displayed in detail view as in dashboard view
+  - *To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.*
+- [x] **Each detail view of an item has a direct, unique URL link to that item’s detail view page**
+  -  *To ensure an accurate grade, the URL/address bar of your web browser **must** be viewable in your recording.*
+- [x] **The app includes at least two unique charts developed using the fetched data that tell an interesting story**
+  - At least two charts should be incorporated into the dashboard view of the site
+  - Each chart should describe a different aspect of the dataset
+
+
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories for part 2:
+<div>
+    <a href="https://www.loom.com/share/9057a7ac877147969ae540701d3d4b2c">
+      <p>data-dashboard - 14 April 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9057a7ac877147969ae540701d3d4b2c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9057a7ac877147969ae540701d3d4b2c-aceacdf10da1de72-full-play.gif#t=0.1">
+    </a>
+  </div>
+
+Here's a walkthrough of implemented user stories for part 1:
+
 
 <div>
     <a href="https://www.loom.com/share/276c645f581e42b592b8447e2d17c46e">
